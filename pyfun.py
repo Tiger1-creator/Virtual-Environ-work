@@ -25,7 +25,7 @@ print("length of A= ", len(a), "length of B= ", len(b), "length of C= ", len(c),
 
 
 #KAJIPOTEFU PROGRAM
-
+text = input("Enter a text you want: ")
 text=text.replace("a","k")
 text=text.replace("i","j")
 text=text.replace("e","t")
